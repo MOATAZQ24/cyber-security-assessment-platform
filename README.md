@@ -317,13 +317,6 @@ fi
 
 ---
 
-## 📞 Get Help & Stay Updated
-
-### 🔔 Support Channels
-- **Documentation**: [Full docs here](docs/)
-- **Issues**: [GitHub Issues](issues)
-- **Discussions**: [Community Forum](discussions)
-- **Security**: [security@example.com](mailto:security@example.com)
 
 ### 📰 Latest Updates
 ```bash
